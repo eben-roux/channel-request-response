@@ -1,2 +1,3 @@
-# channel-request-response
-Shuttle.Esb request/response video code
+# Request/Response video code
+
+You can find the video related to this code over on my [YouTube channel]().
