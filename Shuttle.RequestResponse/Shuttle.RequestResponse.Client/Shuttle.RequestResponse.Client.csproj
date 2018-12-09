@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="Shuttle.Core.Castle" Version="10.0.5" />
-    <PackageReference Include="Shuttle.Esb.RabbitMQ" Version="10.0.7" />
+    <PackageReference Include="Shuttle.Esb.RabbitMQ" Version="10.0.15" />
   </ItemGroup>
 
   <ItemGroup>
